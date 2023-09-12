@@ -1,0 +1,20 @@
+.header h1 {
+    background-color: #291e78;
+    color: white; 
+    padding: 20px; 
+    text-align: center; }
+
+    .header h1 {
+        font-size: 30px; 
+        margin: 10;}
+
+        .card-top {
+            max-width: 100%; /* Максимальная ширина картинки */
+            transition: transform 0.3s; /* Плавное изменение размера */
+        }
+        
+        /* Стилизация картинки при наведении мыши */
+        .card-top:hover {
+            transform: scale(1.1); /* Увеличение картинки на 10% */
+        }            
+        
